@@ -7,7 +7,7 @@ RailsGoat is a vulnerable version of the Ruby on Rails Framework from versions 3
 If you are looking for support or troubleshooting assistance, please visit our [OWASP Slack Channel](https://owasp.slack.com/messages/project-railsgoat/).
 
 ## Getting Started
-
+ 
 To begin, if you do not have Ruby, Git, MySQL, and Postgres, we suggest
 using this [site](https://gorails.com/setup) to install the software.
 Pick the appropriate operating system and follow the instructions.
